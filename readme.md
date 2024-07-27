@@ -12,6 +12,11 @@ Some states make lists of books they say are okay.
  * [Oklahoma](https://sde.ok.gov/approved-titles)
      * allowed_ok_math.csv (2024-07-27)
 
+What would be interesting?
+
+ * Disagreement about what books are bad? (Final ratings)
+ * Certain books being widely rated?
+
 
 ---
 
